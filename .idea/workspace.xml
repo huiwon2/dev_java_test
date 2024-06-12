@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f98d5fb5-672e-4895-8a4d-3a7ab2959f84" name="변경" comment="main/java파일추가" />
+    <list default="true" id="f98d5fb5-672e-4895-8a4d-3a7ab2959f84" name="변경" comment="main/커밋">
+      <change beforePath="$PROJECT_DIR$/src/practice1/practice1_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice1/practice1_1.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1718172292440</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="main/커밋">
+      <created>1718172727157</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718172727157</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -73,7 +85,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/main" />
+                        <option value="huiwon_mac" />
                       </list>
                     </value>
                   </entry>
@@ -87,6 +99,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="main/java파일추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="main/java파일추가" />
+    <MESSAGE value="main/커밋" />
+    <option name="LAST_COMMIT_MESSAGE" value="main/커밋" />
   </component>
 </project>
